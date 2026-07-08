@@ -1,4 +1,5 @@
 .DS_Store
+.claude/
 
 # Original-Quelldateien (nicht fürs Web nötig – optimierte Versionen liegen in /assets)
 C63A4064_2.jpg
